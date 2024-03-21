@@ -5,12 +5,14 @@ This README.md provides a brief guide on managing Unreal Engine projects using R
 
 ## Setting Up Revision Control
 Before proceeding, ensure your Unreal Engine project is set up with your preferred Revision Control system. Integration can typically be done through the Editor Preferences within Unreal Engine.
+
 ![image](https://github.com/AshotMovyan/Unreal-Engine-Version-Control-Submission-Steps/assets/97906192/57cf1c1d-3c67-46c3-9ef8-2151e7f8b9f5)
 
 
 ## Saving Changes
 - Manual Saving: Use Ctrl + S (Windows) / Command + S (Mac) for manual saving within the Unreal Engine editor.
 - Save All: Utilize the "Save All" option under the "File" menu to save all changes at once or Ctrl + Shift + s.
+
 ![image](https://github.com/AshotMovyan/Unreal-Engine-Version-Control-Submission-Steps/assets/97906192/652dbbdc-4332-43c8-8fbb-6e87a66b2931)
 
 
