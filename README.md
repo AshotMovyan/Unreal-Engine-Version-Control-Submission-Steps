@@ -17,14 +17,18 @@ Before proceeding, ensure your Unreal Engine project is set up with your preferr
 
 
 ## Submitting Changes
-1. Commit Changes: Review and commit modified files using your Revision Control system.![image](https://github.com/AshotMovyan/Unreal-Engine-Version-Control-Submission-Steps/assets/97906192/8df975e0-37c5-4463-aee3-337ad2d5a90a)
+1. Commit Changes: Review and commit modified files using your Revision Control system.
+   ![image](https://github.com/AshotMovyan/Unreal-Engine-Version-Control-Submission-Steps/assets/97906192/8df975e0-37c5-4463-aee3-337ad2d5a90a)
 
-2. **Validate Changes:** Before submitting, validate that your changes are correct and complete.![image](https://github.com/AshotMovyan/Unreal-Engine-Version-Control-Submission-Steps/assets/97906192/4e1ef22b-d2d9-46ae-99ec-6a6bd241b2b2)
+3. **Validate Changes:** Before submitting, validate that your changes are correct and complete.
+   ![image](https://github.com/AshotMovyan/Unreal-Engine-Version-Control-Submission-Steps/assets/97906192/4e1ef22b-d2d9-46ae-99ec-6a6bd241b2b2)
 
-3. Write Descriptive Messages: Provide clear commit messages detailing the purpose of each change.![image](https://github.com/AshotMovyan/Unreal-Engine-Version-Control-Submission-Steps/assets/97906192/694f7bd7-be7d-44e1-8244-babcb8f69522)
+5. Write Descriptive Messages: Provide clear commit messages detailing the purpose of each change.
+   ![image](https://github.com/AshotMovyan/Unreal-Engine-Version-Control-Submission-Steps/assets/97906192/694f7bd7-be7d-44e1-8244-babcb8f69522)
 ![image](https://github.com/AshotMovyan/Unreal-Engine-Version-Control-Submission-Steps/assets/97906192/16e0ed5e-28a3-4484-85bc-d4c4cbe8fde1)
 
-4. Submit Changes: After committing, submit changes to the Revision Control system for tracking and collaboration.![image](https://github.com/AshotMovyan/Unreal-Engine-Version-Control-Submission-Steps/assets/97906192/b651fdbd-6080-425d-a3a9-e30f2e390694)
+7. Submit Changes: After committing, submit changes to the Revision Control system for tracking and collaboration.
+   ![image](https://github.com/AshotMovyan/Unreal-Engine-Version-Control-Submission-Steps/assets/97906192/b651fdbd-6080-425d-a3a9-e30f2e390694)
 
 
 ## License
